@@ -4,7 +4,7 @@
 I am currently learning web development, Competitive Coding , problem-solving, public speaking, and an enthusiast learner. I enjoy turning complex problems into simple, beautiful, and intuitive designs.<br>I am a Pre-Final Year undergrad at the GL Bajaj Institute of Technology and Management, Greater Noida pursuing Bachelor of Technology in Computer Science and Engineering.<br>I’m truly passionate about my work and always eager to connect with other fellow learners. While I enjoy all aspects of my role, I think my favorite part of any project is working and discussing with the inspiring and like-minded souls.<br>Apart from being a developer, I enjoy most of my time thinking about club activities, also a member of several clubs including the Shrinik club. Leaves no opportunity to speak publicly and address large gatherings whenever I get the chance to do so.<br>I’m always interested in hearing from others and interesting creative folk, so feel free to contact me if you’d like to connect. Connect with me on my social handles, will love to interact with you over there.
 
 
-[![](https://visitcount.itsvg.in/api?id=AmanGuptaCoder&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AmanGuptaCoder&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7pzero/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amancod/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amancod1) 
